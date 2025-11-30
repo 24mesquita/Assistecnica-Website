@@ -96,7 +96,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight text-balance mb-6">
-                Especialistas em Eletrodomésticos desde 1998
+                Especialistas em Eletrodomésticos desde 1996
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground text-pretty mb-8">
                 Venda, reparação e instalação de eletrodomésticos com a qualidade e confiança que você merece. Venha
@@ -150,7 +150,7 @@ export default function Home() {
           <div className="max-w-3xl mx-auto text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-6">Sobre a Assistécnica</h2>
             <p className="text-lg text-muted-foreground text-pretty">
-              A AssisTécnica nasceu em 1998, com o principal objetivo de prestar serviços de assistência técnica a
+              A AssisTécnica nasceu em 1996, com o principal objetivo de prestar serviços de assistência técnica a
               eletrodomésticos. Desde a comercialização de eletrodomésticos, José Alberto Martins, decidiu que era o
               momento certo para se estabelecer por conta própria.
             </p>

@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Assistécnica - Assistência Técnica de Eletrodomésticos",
   description:
-    "Venda, reparação e instalação de eletrodomésticos desde 1998. Serviços profissionais em Aver-o-Mar, Póvoa de Varzim.",
+    "Venda, reparação e instalação de eletrodomésticos desde 1996. Serviços profissionais em Aver-o-Mar, Póvoa de Varzim.",
   generator: "v0.app",
   icons: {
     icon: [
